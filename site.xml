@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/edu.uci.isr.archstudio4_4.1.5.jar" id="edu.uci.isr.archstudio4" version="4.1.5">
+      <category name="Architecture"/>
+   </feature>
+   <category-def name="Architecture" label="Architecture"/>
+</site>
